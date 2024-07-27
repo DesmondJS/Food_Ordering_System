@@ -21,7 +21,7 @@ The database consists of the following tables:
 - **Waiter**: Stores information about waiters serving in the restaurant.
 - **Meal**: Contains details about meal items.
 - **Dessert**: Contains details about dessert items.
-- **Beverage**: Contains details about beverage items
+- **Beverage**: Contains details about beverage items.
 
 ## Features
 
